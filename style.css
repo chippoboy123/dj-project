@@ -1,0 +1,29 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: blueviolet;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.div_volume_img
+{
+    width: 500px;
+    border-radius:100px ;
+}
+#volume
+{
+    font-size: 23px;
+    margin:15px ;
+    color: aqua;
+}
